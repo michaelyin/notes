@@ -5,3 +5,17 @@ steps to build github blog page on the basis of Jekyll
    Install the package ruby
    Once Ruby is installed, run the following command to install Jekyll:
    gem install jekyll
+
+3. Install the package python: Python language interpreter (select the 2.x package, not python3!)
+
+4. Install easy_install and Pygments:
+   curl 'https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py' | python
+   easy_install Pygments
+   
+   In .bashrc file, add following line
+   export COMSPEC=/cygdrive/c/Windows/System32/cmd.exe
+   
+   create a symbolic link like the following:
+   ln -s /usr/bin/python /usr/local/bin/python2
+   
+5. http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/
