@@ -1,0 +1,7 @@
+steps to build github blog page on the basis of Jekyll
+
+1. in windows machine, install Cygwin.
+2. Run Cygwin’s setup.exe
+   Install the package ruby
+   Once Ruby is installed, run the following command to install Jekyll:
+   gem install jekyll
