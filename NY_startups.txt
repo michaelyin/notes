@@ -1,0 +1,52 @@
+It is from a post at mitbbs.com.
+
+1. datadog:
+ 14年容了15M, 是一家Engineer-driven的公司，没什么PM, 公司主要做数据库／服务器
+ 的数据监测和可视化。
+tech stack: python/golang/javascript/backbonejs/reactjs/Apache Kafka 
+
+ 2. handy
+地点也在中程，14年容了B轮 30M， 做家政服务e-commerce.
+ tech stack: ruby on rail/ angular
+
+ 3. Moat
+ Tech lead多数来自google什么的
+ 做广告index/search
+
+ 4. America Express
+该公司准备走agile develpment做一些金融相关的产品
+
+5. Airtime
+ Sean Parker的一家startup
+公司性质类似于betaworks，主要是小团队做快速prototype和投入市场。注重看你的
+side project/hackthon project
+
+ 6. Shutterstock
+做照片云存储, e-commerce 
+
+ 7. dataminr
+ 13年容了30M, 最twitter 数据分析，为banker/hedge fund提供快消息
+tech stack: javascript/backboneJS
+
+ 8. weebly
+一家提供傻瓜式建站的公司。纽约这边现在只有一个engineer在做前端，engineer 
+ culture不错经常报销各种conference参加的开销
+ 聊具体项目的时候，感觉平时工作挑战不大
+tech stack: javascript/backbone
+
+ 9， oysterbook.com
+ 14年一月A 轮融资14M，做在线阅读. 产品ui很漂亮. tech lead算是ny tech圈名人，
+ 组织过几次大型的hackthon
+ tech stack: ios/javascript/backbonejs
+
+ 10。 chatid
+ 14年夏天a 轮容了5M， 做网络在线客服聊天整合. 公司蛮小不到50人
+tech stack: javascript/backbonejs/reactjs
+
+当然fb/google的具体情况路人皆知，就不说了。
+
+ 最后说一家在三藩的公司， 这家算是inbound：
+quizlet
+三藩的一家做教育的startup， 给高中生提供学习工具。没有融资也不需要融资，因为
+1%的付费用户已经可以养活整个团队了。牛逼
+tech stack: nodejs/javascript/reactjs
